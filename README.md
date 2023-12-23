@@ -13,7 +13,7 @@ NOTE: For Dr. Stone, there are two different versions of the subs, one for Crunc
 ## How to use
 The easiest way to use them is with VLC player. In VLC player, you would start watching the episode or movie you intend to use the subtitles with, then right click on the screen and select Subtitle -> Add subtitle file, then pick the subtitle file you want to use. 
 
-If you know what you're doing, feel free to use whatever player you want that supports subtitles with the ASS (Advanced Substation Alpha format)
+If you know what you're doing, feel free to use whatever player you want that supports subtitles with the ASS (Advanced Substation Alpha) format
 
 YouTube video that goes with this project:
 https://www.youtube.com/watch?v=3wF91iArEp0
