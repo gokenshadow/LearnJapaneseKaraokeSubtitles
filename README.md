@@ -1,6 +1,7 @@
 # Karaoke Subs That Teach Japanese
+In the following Github Project are karaoke subs that are intended to teach you Japanese.
 ## The files
-In the following Github Project are karaoke subs that are intended to teach you Japanese. There are subtitle files for two different anime episodes and one movie:
+There are subtitle files for two different anime episodes and one movie:
 
 Card Captor Sakura Episode 1 (Cardcaptor Sakura Ep 1.ass)
 Dr. Stone Episode 1 (Dr Stone Ep 1.ass)
