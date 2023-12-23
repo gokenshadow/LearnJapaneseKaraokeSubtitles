@@ -3,9 +3,9 @@ In the following Github Project are karaoke subs that are intended to teach you 
 ## The files
 There are subtitle files for two different anime episodes and one movie:
 
-Card Captor Sakura Episode 1 (Cardcaptor Sakura Ep 1.ass)
-Dr. Stone Episode 1 (Dr Stone Ep 1.ass)
-Whisper of the Heart (Whisper Of The Heart.ass)
+- Card Captor Sakura Episode 1 (Cardcaptor Sakura Ep 1.ass)
+- Dr. Stone Episode 1 (Dr Stone Ep 1.ass)
+- Whisper of the Heart (Whisper Of The Heart.ass)
 
 NOTE: For Dr. Stone, there are two different versions of the subs, one for Crunchyroll because it has a bumper that extends the length slightly (Dr Stone Ep 1 Crunchyroll.ass), and one for YouTube (Dr Stone Ep 1.ass).
 
