@@ -1,5 +1,9 @@
 # Karaoke Subs That Teach Japanese
 In the following Github Project are karaoke subs that are intended to teach you Japanese.
+
+## Disclaimer
+I am not fluent in Japanese and mainly used a Japanese/English dictionary for these translations, so there may be some mistranslations. At best, I can give them an about 80% accuracy rating.
+
 ## The files
 There are subtitle files for two different anime episodes and one movie:
 
