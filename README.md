@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=3wF91iArEp0
 
 Here is the completely legal link to episode one of Dr Stone as released by Toho Animation for promotional purposes. You can drag this video link into VLC player to add the subs to it:
 https://www.youtube.com/watch?v=sMsNh3oPPTg
+
+## No FX
+I have also put the Karaoke subs with just the timing and no special effects in the /RawKaraokeNoFX folder.
