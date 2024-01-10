@@ -1,0 +1,5 @@
+Words Appearing Karaoke Template:
+{\r\k$kdur\3a&HFF&\2a&HFF&\4a&HFF&\t($start,$mid,\1c&HFFFFFF&\b50\bord10.7\3a&H00&\4a&H00&)\t($mid,$end,\b0\bord1)}
+
+Whole Line Karaoke Template:
+{\r\k$kdur\t($start,$mid,\1c&HFFFFFF&\b50\bord10.7)\t($mid,$end,\b0\bord1)}
