@@ -31,4 +31,5 @@ I have also put the Karaoke subs with just the timing and no special effects in 
 ## Useful Tools
 ### seltran
 sacred-serpent (https://github.com/sacred-serpent) is working on a Python app called seltran (Selective Japanese Translator) that will help to automate some of the process of translating subs from Japanese to English. Check it out if you're interested:
+
 https://github.com/sacred-serpent/seltran
